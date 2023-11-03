@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning HTML, CSS, and Python programming languages
 - 💞️ I’m looking to collaborate on various projects as I find my way from beginner level towards professional level. 
 - 📫 You can reach me through my email albertaberi2009@gmail.com or my phone number +254708052346
--     I look to growing, doing better and be impactful in the tech spaces, and I acknowledge that I cannot do this alone, but with you, programming and allied skills are achievable.
+-     I look forward to growing, doing better and being impactful in the tech spaces, and I acknowledge that I cannot do this alone, but with you, programming and allied skills are achievable.
